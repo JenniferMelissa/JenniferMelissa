@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![JenniferMelissa Status](https://github-readme-stats.vercel.app/api?username=JenniferMelissa_icons=true)
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JenniferMelissa&layout=compact)](https://github.com/JenniferMelissa/github-readme-stats)
+
+![Jennifer Melissa GitHub stats](https://github-readme-stats.vercel.app/api?username=JenniferMelissa&show_icons=true&theme=radical)
+
 <!--
 **JenniferMelissa/JenniferMelissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
