@@ -1,4 +1,10 @@
 ### Hi there 👋
+Olá, Bem Vindos ao Meu GitHub.
+
+- 🔭 Eu sou estudante na área de Desenvolvimento e Banco de Dados.
+- 🌱 Atualmente faço estágio na área de Desenvolvimento de Sistemas.
+
+
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JenniferMelissa&layout=compact)](https://github.com/JenniferMelissa/github-readme-stats)
 
