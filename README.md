@@ -2,8 +2,8 @@
 Olá, Bem Vindos ao Meu GitHub.
 
 - 🔭 Eu sou estudante na área de Desenvolvimento e Banco de Dados.
-- 🌱 Atualmente faço estágio na área de Desenvolvimento de Sistemas.
-- 😄 Trablaho com.Net TDD, .Net, Asp.Net, Banco de Dados(SqlServer), Power BI.
+- 🌱 Atualmente, estagio na área de Desenvolvimento de Sites e na área de Testes.
+- 😄 Trabalho com TDD, BDD, Asp.Net,SQLServer, Power BI e Metodologias Ágeis(Scrum e Kanban).
 
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JenniferMelissa&layout=compact)](https://github.com/JenniferMelissa/github-readme-stats)
