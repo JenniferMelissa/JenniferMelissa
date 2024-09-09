@@ -1,8 +1,8 @@
 ### Hi there 👋
 Olá, Bem Vindos ao Meu GitHub.
 
-- 🔭 Eu sou estudante Tecnologa em Banco de Dados, ficada em Engenharia e Analise de Dados.
-- 🌱 Atualmente, trabalho com carga de dados no Data Factory, tratamento de dados, criação de Dashboards e criação de relatórios.
+- 🔭 Eu sou estudante Tecnóloga em Banco de Dados, focada em Engenharia e Análise de Dados.
+- 🌱 Atualmente, trabalho com carga de dados, tratamento de dados, criação de Dashboards e de relatórios.
 - 😄 Trabalho com SSIS, Data Factory, Databricks, Power BI, SQL Server e Metodologias Ágeis (Scrum).
 
 
