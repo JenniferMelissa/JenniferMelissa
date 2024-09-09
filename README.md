@@ -1,9 +1,9 @@
 ### Hi there 👋
 Olá, Bem Vindos ao Meu GitHub.
 
-- 🔭 Eu sou estudante na área de Desenvolvimento e Banco de Dados.
-- 🌱 Atualmente, estagio na área de Desenvolvimento de Sites e na área de Testes.
-- 😄 Trabalho com TDD, BDD, Asp.Net,SQLServer, Power BI e Metodologias Ágeis(Scrum e Kanban).
+- 🔭 Eu sou estudante Tecnologa em Banco de Dados, ficada em Engenharia e Analise de Dados.
+- 🌱 Atualmente, trabalho com carga de dados no Data Factory, tratamento de dados, criação de Dashboards e criação de relatórios.
+- 😄 Trabalho com SSIS, Data Factory, Databricks, Power BI, SQL Server e Metodologias Ágeis (Scrum).
 
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JenniferMelissa&layout=compact)](https://github.com/JenniferMelissa/github-readme-stats)
