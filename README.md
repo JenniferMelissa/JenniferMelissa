@@ -1,9 +1,9 @@
 ### Hi there 👋
 Olá, Bem Vindos ao Meu GitHub.
 
-- 🔭 Eu sou estudante Tecnóloga em Banco de Dados, focada em Engenharia e Análise de Dados.
-- 🌱 Atualmente, trabalho com carga de dados, tratamento de dados, criação de Dashboards, relatórios e análise de dados com Python.
-- 😄 Trabalho com SSIS, Data Factory, Databricks, Power BI, SQL Server, Python e Metodologias Ágeis (Scrum).
+- 🔭 Sou formada em Tecnólogo de Banco de Dados, e meus estudos são focados para Engenharia e Análise de Dados.
+- 🌱 Atuei por 2 anos com carregamento de dados, tratamento de dados, criação de Dashboards e relatórios, e análise de dados com Python.
+- 😄 Atuei com as ferramentas: SSIS, Data Factory, Databricks, Power BI, SQL Server, Python e Metodologias Ágeis (Scrum).
 
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JenniferMelissa&layout=compact)](https://github.com/JenniferMelissa/github-readme-stats)
